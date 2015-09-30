@@ -2,6 +2,8 @@
 # user defined parameters, and then simulate the "latent" models' parameters using Stran 
 # high-order programming language ARCH(1) model. 
 
+# Rettelse
+
 library(rstan)   # we load in the Stan package
 library(tseries)
 setwd("C:/Users/computer/Desktop/thesis")  
