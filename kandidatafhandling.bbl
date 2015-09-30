@@ -1,0 +1,182 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bishop(2006)]{bishop}
+Christopher~M. Bishop.
+\newblock \emph{Pattern Recognition and Machine Learning}.
+\newblock Springer Science Business Media, LLC, 2006.
+
+\bibitem[Bollerslev(1986)]{bollerslev}
+Tim Bollerslev.
+\newblock {G}eneralized {A}utoregressive {C}onditional {H}eteroskedasticity.
+\newblock \emph{Journal of Econometrics}, 31:\penalty0 307--327, 1986.
+
+\bibitem[Brandimarte(2014)]{brandimarte}
+Paolo Brandimarte.
+\newblock \emph{Handbook in Monte Carlo Simulation}.
+\newblock John Wiley and Sons, 2014.
+
+\bibitem[Cai(1994)]{cai}
+Jun Cai.
+\newblock A {M}arkov {M}odel of {S}witching {R}egime {ARCH}.
+\newblock \emph{Journal of Business \& Economic Statistics}, 12\penalty0
+  (3):\penalty0 309--316, 1994.
+
+\bibitem[Canarellar and Pollard(2007)]{canarella}
+Giorgio Canarellar and Stephen~K. Pollard.
+\newblock {A} {S}witching {ARCH} ({SWARCH}) model of stock market volatility:
+  some evidence from {L}atin {A}merica.
+\newblock \emph{International Review of Economics}, 54:\penalty0 445--465,
+  2007.
+
+\bibitem[Casella and George(1992)]{casella}
+George Casella and Edward~I. George.
+\newblock {E}xplaining the {G}ibbs {S}ampler.
+\newblock \emph{America Statistical Association}, 46\penalty0 (3):\penalty0
+  167--174, 1992.
+
+\bibitem[Chib(2001)]{chib1}
+Siddhartha Chib.
+\newblock \emph{Handbook of Econometrics}.
+\newblock Elsevier Science B.V., 2001.
+
+\bibitem[Chib and Greenberg(1995)]{chib}
+Siddhartha Chib and Edward Greenberg.
+\newblock Understanding the {M}etropolis-{H}astings {A}lgorithm.
+\newblock \emph{The American Statistician}, 49\penalty0 (4):\penalty0 327--335,
+  1995.
+
+\bibitem[Durland and McCurdy(1994)]{durland}
+J.~Michael Durland and Thomas~H. McCurdy.
+\newblock Duration--{D}ependent {T}ransitions in a {M}arkov {M}odel of {U.S.
+  GNP} {G}rowth.
+\newblock \emph{Journal of Business \& Economic Statistics}, 12\penalty0
+  (3):\penalty0 279--288, 1994.
+
+\bibitem[Engle(1982)]{engle82}
+Robert~F. Engle.
+\newblock Autoregressive {C}onditional {H}eteroscedasticity with {E}stimates of
+  the {V}ariance of {United Kingdom} {I}nflation.
+\newblock \emph{Econometrica}, 50\penalty0 (4):\penalty0 987--1007, 1982.
+
+\bibitem[Gamerman(1997)]{gamerman}
+Dani Gamerman.
+\newblock \emph{Markov Chain Monte Carlo}.
+\newblock Chapman and Hall, 1997.
+
+\bibitem[Geman and Geman(1984)]{geman}
+Stuart Geman and Donald Geman.
+\newblock {S}tochastic {R}elaxation, {G}ibbs {D}istributions and the {B}ayesian
+  {R}estoration of {I}mages.
+\newblock \emph{The IEEE Transactions on Pattern Analysis and Machine
+  Intelligence (TPAMI)}, 6\penalty0 (6):\penalty0 721--741, 1984.
+
+\bibitem[Hamilton and Susmel(1994)]{hamiltonsusmel}
+James~D. Hamilton and Raul Susmel.
+\newblock {A}utoregressive {C}onditional {H}eterosckedasticity and {C}hanges in
+  {R}egime.
+\newblock \emph{Journal of Econometrics}, 64:\penalty0 307--333, 1994.
+
+\bibitem[Hastings(1970)]{hastings}
+W.~Keith Hastings.
+\newblock {M}onte {C}arlo {S}ampling {M}ethods {U}sing {M}arkov {C}hains and
+  {T}heir {A}pplications.
+\newblock \emph{Biometrika}, 57\penalty0 (1):\penalty0 97--109, 1970.
+
+\bibitem[Lawler(2010)]{lawler}
+Gregory~F. Lawler.
+\newblock \emph{Intoduction to Stochastic Processes}.
+\newblock Chapman \& Hall, 2010.
+
+\bibitem[Lee(2004)]{lee}
+Peter~M. Lee.
+\newblock \emph{Bayesian Statistics An Introduction}.
+\newblock Arnold, a member of the Hodder Headline Group, third edition, 2004.
+
+\bibitem[Li and Lin(2003)]{li}
+Ming Yuan~Leon Li and Hsiou Wei~William Lin.
+\newblock Examining the {V}olatility of {Taiwan} {S}tock {I}ndex {R}eturns via
+  a {T}hree-{V}olatility-{R}egime {M}arkov-{S}witching {ARCH} {M}odel.
+\newblock \emph{Review of Quantitative Finance and Accounting}, 21\penalty0
+  (21):\penalty0 123--139, 2003.
+
+\bibitem[Metropolis and Ulam(1949)]{ulam}
+Nicholas Metropolis and Stanislaw Ulam.
+\newblock {T}he {M}onte {C}arlo {M}ethod.
+\newblock \emph{Journal of the American Statistical Association}, 44\penalty0
+  (247):\penalty0 335--341, 1949.
+
+\bibitem[Metropolis et~al.(1953)Metropolis, Rosenbluth, Rosenbluth, and
+  Teller]{metropolis}
+Nicholas Metropolis, Arianna~W. Rosenbluth, Marshall~N. Rosenbluth, and
+  Augusta~H. Teller.
+\newblock {E}quation of {S}tate {C}alculations by {F}ast {C}omputing
+  {M}achines.
+\newblock \emph{Journal of Chemical Phisics}, 21\penalty0 (6):\penalty0
+  1087--1092, 1953.
+
+\bibitem[Monahan(2011)]{monahan}
+John~F. Monahan.
+\newblock \emph{Numerical Methods of Statistics}.
+\newblock Cambrindge University Press, second edition, 2011.
+
+\bibitem[Peskun(1973)]{peskun}
+P.~H. Peskun.
+\newblock {O}ptimum {M}onte-{C}arlo sampling using {M}arkov chains.
+\newblock \emph{Biometrika}, 60\penalty0 (3):\penalty0 607--612, 1973.
+
+\bibitem[Peskun(1981)]{peskun81}
+P.~H. Peskun.
+\newblock {G}uidelines for {C}hoosing the {T}ransition {M}atrix in {M}onte
+  {C}arlo {M}ethods {U}sing {M}arkov {C}hains.
+\newblock \emph{Journal of Computational Physics}, 40:\penalty0 327--344, 1981.
+
+\bibitem[Prochazka et~al.(1998)Prochazka, Uhlir, and Rayner]{prochazka}
+Ales Prochazka, Jan Uhlir, and P.W.J. Rayner.
+\newblock \emph{Signal Analysis and Prediction}.
+\newblock Springer Science+Business Media New York, first edition, 1998.
+
+\bibitem[Rabiner(1988)]{rabiner}
+Lawrence~R. Rabiner.
+\newblock {A} {T}utorial on {H}idden {M}arkov {M}odels and {S}elected
+  {A}pplications in {S}peech {R}ecognition.
+\newblock \emph{Proceedings of IEEE}, 2:\penalty0 257--286, 1988.
+
+\bibitem[Robert and Casella(2011)]{robert}
+Christian Robert and George Casella.
+\newblock {A} {S}hort {H}istory of {M}arkov {C}hain {M}onte {C}arlo:
+  {S}ubjective {R}ecollections from {I}ncomplete {D}ata.
+\newblock \emph{Statistical Science}, 26\penalty0 (1):\penalty0 102--115, 2011.
+
+\bibitem[Schiller et~al.(2009)Schiller, Spiegel, and Srinivasan]{schaum}
+John Schiller, Murray~R. Spiegel, and R.~Alu Srinivasan.
+\newblock \emph{Probability and Statistics}.
+\newblock McGraw Hill, third edition, 2009.
+
+\bibitem[Shumway and Stoffer(2010)]{shumway}
+Robert~H. Shumway and David~S. Stoffer.
+\newblock \emph{Time Series Analysis and Its Applications With R Examples}.
+\newblock Springer, third edition, 2010.
+
+\bibitem[Tanner and Wong(1987)]{tanner}
+Martin~A. Tanner and Wing~Hung Wong.
+\newblock {T}he {C}alculation of {P}osterior {D}istributions by {D}ata
+  {A}ugmentation.
+\newblock \emph{Journal of the American Statistical Association,}, 82\penalty0
+  (398):\penalty0 528--540, 1987.
+
+\bibitem[Team(2015)]{stan}
+Stan~Development Team.
+\newblock \emph{Stan Modeling Language:User’s Guide and Reference Manual}.
+\newblock Stan, 2.6.2 edition, 2015.
+
+\bibitem[Tsay(2010)]{tsay}
+Ruey~S. Tsay.
+\newblock \emph{Analysis of Financial Time Series}.
+\newblock John Wiley \& Sons, third edition, 2010.
+
+\end{thebibliography}

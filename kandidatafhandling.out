@@ -1,0 +1,85 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Financial Time Series}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Fubini}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Fubini}{subsection.2.1}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Conditional Heteroscedastic Models}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Properties of ARCH\(m\) Models}{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Markov-Switching ARCH\(1\) Model}{subsection.2.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Data Set}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Data Specifications}{subsection.2.3}% 9
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Data Properties}{subsection.2.3}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Identifying ARCH Process}{subsection.2.3}% 11
+\BOOKMARK [3][-]{subsubsection.2.3.4}{Testing for Autocorrelation}{subsection.2.3}% 12
+\BOOKMARK [3][-]{subsubsection.2.3.5}{Testing for ARCH Effect}{subsection.2.3}% 13
+\BOOKMARK [1][-]{section.3}{Bayesian Statistics}{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{Introduction}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.2}{Bayes' Theorem}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.3}{Posterior is prop to prior times likelihood}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Prior Beliefs}{subsection.3.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Likelihood Function}{subsection.3.3}% 19
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Posterior Distribution}{subsection.3.3}% 20
+\BOOKMARK [2][-]{subsection.3.4}{Our Proposal Density}{section.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.4.1}{Our Choice of Prior Distribution}{subsection.3.4}% 22
+\BOOKMARK [3][-]{subsubsection.3.4.2}{Alternative Choice of Our Prior Distribution}{subsection.3.4}% 23
+\BOOKMARK [2][-]{subsection.3.5}{Our Posterior Distribution}{section.3}% 24
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Full Conditionals}{subsection.3.5}% 25
+\BOOKMARK [1][-]{section.4}{Markov Chain Theory}{}% 26
+\BOOKMARK [2][-]{subsection.4.1}{Introduction}{section.4}% 27
+\BOOKMARK [2][-]{subsection.4.2}{Finite Markov Chains}{section.4}% 28
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Notation}{subsection.4.2}% 29
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Stationary Distribution}{subsection.4.2}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Reversibility of Chains}{subsection.4.2}% 31
+\BOOKMARK [2][-]{subsection.4.3}{Continuous State Space}{section.4}% 32
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Transition kernels}{subsection.4.3}% 33
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Fubini}{subsection.4.3}% 34
+\BOOKMARK [3][-]{subsubsection.4.3.3}{Fubini}{subsection.4.3}% 35
+\BOOKMARK [1][-]{section.5}{Markov Chain Monte Carlo}{}% 36
+\BOOKMARK [2][-]{subsection.5.1}{The Short Motivation to MCMC}{section.5}% 37
+\BOOKMARK [2][-]{subsection.5.2}{The Not So Short Introduction to MCMC}{section.5}% 38
+\BOOKMARK [2][-]{subsection.5.3}{Thinking MCMC and Bayesian Inference}{section.5}% 39
+\BOOKMARK [2][-]{subsection.5.4}{Metropolis-Hastings Algorithm}{section.5}% 40
+\BOOKMARK [3][-]{subsubsection.5.4.1}{Metropolis Algorithm}{subsection.5.4}% 41
+\BOOKMARK [3][-]{subsubsection.5.4.2}{Rejection Sampling Description}{subsection.5.4}% 42
+\BOOKMARK [2][-]{subsection.5.5}{Metropolis-Hastings Algorithm}{section.5}% 43
+\BOOKMARK [3][-]{subsubsection.5.5.1}{Definition and Properties}{subsection.5.5}% 44
+\BOOKMARK [2][-]{subsection.5.6}{Gibbs Sampling}{section.5}% 45
+\BOOKMARK [3][-]{subsubsection.5.6.1}{Introduction}{subsection.5.6}% 46
+\BOOKMARK [3][-]{subsubsection.5.6.2}{Definition and Properties}{subsection.5.6}% 47
+\BOOKMARK [3][-]{subsubsection.5.6.3}{Implementation and Optimization}{subsection.5.6}% 48
+\BOOKMARK [2][-]{subsection.5.7}{MCMC Hybrid Algorithms}{section.5}% 49
+\BOOKMARK [3][-]{subsubsection.5.7.1}{Metropolis within Gibbs Algorithm}{subsection.5.7}% 50
+\BOOKMARK [2][-]{subsection.5.8}{OUR MCMC Computational Results}{section.5}% 51
+\BOOKMARK [3][-]{subsubsection.5.8.1}{Warmup phase}{subsection.5.8}% 52
+\BOOKMARK [1][-]{section.6}{Markov Regime Switching Models}{}% 53
+\BOOKMARK [2][-]{subsection.6.1}{Introduction}{section.6}% 54
+\BOOKMARK [2][-]{subsection.6.2}{Literature Review}{section.6}% 55
+\BOOKMARK [2][-]{subsection.6.3}{MSM Structure, Properties and Methods}{section.6}% 56
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Forward Algorithm}{subsection.6.3}% 57
+\BOOKMARK [3][-]{subsubsection.6.3.2}{Backward algorithm}{subsection.6.3}% 58
+\BOOKMARK [3][-]{subsubsection.6.3.3}{Viterbi's Algorithm}{subsection.6.3}% 59
+\BOOKMARK [2][-]{subsection.6.4}{ARCH specifications with Changes in Regime}{section.6}% 60
+\BOOKMARK [1][-]{section.7}{HMM with Application to Stock Data}{}% 61
+\BOOKMARK [2][-]{subsection.7.1}{Definition and Properties}{section.7}% 62
+\BOOKMARK [2][-]{subsection.7.2}{Parameter Estimation and Empirical Results}{section.7}% 63
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Overview and Data Preparation}{subsection.7.2}% 64
+\BOOKMARK [3][-]{subsubsection.7.2.2}{Model Estimation}{subsection.7.2}% 65
+\BOOKMARK [3][-]{subsubsection.7.2.3}{Results and Analysis}{subsection.7.2}% 66
+\BOOKMARK [2][-]{subsection.7.3}{Convergence Diagnostics}{section.7}% 67
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Visual Inspection}{subsection.7.3}% 68
+\BOOKMARK [3][-]{subsubsection.7.3.2}{Gelman and Rubin Diagnostic}{subsection.7.3}% 69
+\BOOKMARK [3][-]{subsubsection.7.3.3}{Geweke Diagnostic}{subsection.7.3}% 70
+\BOOKMARK [3][-]{subsubsection.7.3.4}{Raftery and Lewis Diagnostic}{subsection.7.3}% 71
+\BOOKMARK [3][-]{subsubsection.7.3.5}{Heidelberg and Welch Diagnostic}{subsection.7.3}% 72
+\BOOKMARK [1][-]{section.8}{Concluding Remarks}{}% 73
+\BOOKMARK [2][-]{subsection.8.1}{Proposal for Future Research}{section.8}% 74
+\BOOKMARK [1][-]{section.9}{Acknowledgements}{}% 75
+\BOOKMARK [1][-]{section.10}{Appendix}{}% 76
+\BOOKMARK [2][-]{subsection.10.1}{Software Tools and Solutions}{section.10}% 77
+\BOOKMARK [2][-]{subsection.10.2}{GAUSSTM}{section.10}% 78
+\BOOKMARK [3][-]{subsubsection.10.2.1}{GAUSS - Programming Source Code}{subsection.10.2}% 79
+\BOOKMARK [2][-]{subsection.10.3}{Python}{section.10}% 80
+\BOOKMARK [3][-]{subsubsection.10.3.1}{Python - Programming Source Code}{subsection.10.3}% 81
+\BOOKMARK [2][-]{subsection.10.4}{R}{section.10}% 82
+\BOOKMARK [3][-]{subsubsection.10.4.1}{R - Programming Source Code}{subsection.10.4}% 83
+\BOOKMARK [2][-]{subsection.10.5}{Stan}{section.10}% 84
+\BOOKMARK [3][-]{subsubsection.10.5.1}{Stan - Programming Source Code}{subsection.10.5}% 85
